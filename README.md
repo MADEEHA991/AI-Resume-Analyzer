@@ -8,11 +8,11 @@ The application extracts information from a PDF resume, detects relevant skills,
 
 ## 🌐 Live Demo
 
-👉 [Try the AI Resume Analyzer](YOUR_STREAMLIT_APP_URL)
+👉 [Try the AI Resume Analyzer]
 
 ---
 
-## 🖼️ Preview
+## 🖼️ Preview ![App Preview](assets/Screenshots/Screenshot%202026-08-10%20185532.png)
 
 <p align="center">
   <img src="assets/app-input.png" alt="App Input Interface" width="49%" />
