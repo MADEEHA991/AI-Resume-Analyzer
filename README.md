@@ -8,11 +8,19 @@ The application extracts information from a PDF resume, detects relevant skills,
 
 ## 🌐 Live Demo
 
-👉 [Try the AI Resume Analyzer]
+👉 [Try the AI Resume Analyzer](YOUR_STREAMLIT_APP_URL)
 
 ---
 
-## 🖼️ Preview
+## 🚀 How to Run Locally
+
+1. Clone the repository:
+```bash
+git clone https://github.com/MADEEHA991/AI-Resume-Analyzer.git
+
+
+
+## Preview
 
 <p align="center">
   <img src="assets/Screenshots/Screenshot 2026-08-10 185532.png" alt="App Preview" width="49%" />
