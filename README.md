@@ -17,11 +17,11 @@ An AI-powered web application that analyzes a resume against a job description t
 ---
 
 ## 🚀 How to Run Locally
-
+'''
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/MADEEHA991/AI-Resume-Analyzer.git
    cd AI-Resume-Analyzer
 
-   ---
+   
 
