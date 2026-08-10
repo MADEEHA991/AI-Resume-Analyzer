@@ -12,12 +12,13 @@ The application extracts information from a PDF resume, detects relevant skills,
 
 ---
 
-## 🖼️ Preview ![App Preview](assets/Screenshots/Screenshot%202026-08-10%20185532.png)
+## 🖼️ Preview
 
 <p align="center">
-  <img src="assets/app-input.png" alt="App Input Interface" width="49%" />
-  <img src="assets/app-results.png" alt="Analysis Dashboard" width="49%" />
+  <img src="assets/Screenshots/Screenshot 2026-08-10 185532.png" alt="App Preview" width="49%" />
+  <img src="assets/Screenshots/Screenshot 2026-08-10 185544.png" alt="Analysis Dashboard" width="49%" />
 </p>
+
 
 ---
 
