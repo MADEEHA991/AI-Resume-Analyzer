@@ -16,11 +16,9 @@ The application extracts information from a PDF resume, detects relevant skills,
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/MADEEHA991/AI-Resume-Analyzer.git
+git clone [https://github.com/MADEEHA991/AI-Resume-Analyzer.git](https://github.com/MADEEHA991/AI-Resume-Analyzer.git)
 
-
-
-## Preview
+##  Preview
 
 <p align="center">
   <img src="assets/Screenshots/Screenshot 2026-08-10 185532.png" alt="App Preview" width="49%" />
