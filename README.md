@@ -18,6 +18,7 @@ The application extracts information from a PDF resume, detects relevant skills,
 ```bash
 git clone [https://github.com/MADEEHA991/AI-Resume-Analyzer.git](https://github.com/MADEEHA991/AI-Resume-Analyzer.git)
 
+
 ##  Preview
 
 <p align="center">
