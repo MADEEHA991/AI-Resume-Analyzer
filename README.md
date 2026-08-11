@@ -8,7 +8,7 @@ The application extracts information from a PDF resume, detects relevant skills,
 
 ## 🌐 Live Demo
 
-👉 [Try the AI Resume Analyzer](http://localhost:8501)
+👉 [Try the AI Resume Analyzer](https://ai-resume-analyzer-wwyetutglvxesmfayy64kq.streamlit.app/)
 
 ---
 
@@ -55,4 +55,4 @@ Identify Missing Skills
         ↓
 Generate Recommendations
         ↓
-Download Analysis
+Download Analysiss
